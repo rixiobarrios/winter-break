@@ -27,82 +27,33 @@ You'll be creating a simple, browser-based JavaScript game that utilizes `alert(
 1. You are starting a landscaping business, but all you have are your teeth.
 1. Using just your teeth, you can spend the day cutting lawns and make $1.  You can do this as much as you want.
 
-    <hr>
-    &#x1F534; <b>Commit your work!</b> <br>
-    Your commit message should read something like: <br>
-    "landscaper: user can use teeth to cut grass"
-    <hr>
 
 1. At any point, if you are currently using your teeth, you can buy a pair of rusty scissors for $5.  You can do this once, assuming you have enough money.
 
-    <hr>
-    &#x1F534; <b>Commit your work!</b> <br>
-    Your commit message should read something like: <br>
-    "landscaper: user can buy scissors"
-    <hr>
 
 1. Using the rusty scissors, you can spend the day cutting lawns and make $5.  You can do this as much as you want.
 
-    <hr>
-    &#x1F534; Commit:  <br>
-    "Landscaper App: user can use scissors to cut grass"
-    <hr>
 
 1. At any point, if you are currently using rusty scissors, you can buy an old-timey push lawnmower for $25.  You can do this once, assuming you have enough money.
 
-    <hr>
-    &#x1F534; <b>Commit your work!</b> <br>
-    Your commit message should read something like: <br>
-    "landscaper: user can buy push lawnmower"
-    <hr>
 
 1. Using the old-timey push lawnmower, you can spend the day cutting lawns and make $50.  You can do this as much as you want.
 
-    <hr>
-    &#x1F534; <b>Commit your work!</b> <br>
-    Your commit message should read something like: <br>
-    "landscaper: user can use push lawnmower to cut grass"
-    <hr>
 
 1. At any point, if you are currently using the old-timey push lawnmower, you can buy a fancy battery-powered lawnmower for $250.  You can do this once, assuming you have enough money.
 
-    <hr>
-    &#x1F534; <b>Commit your work!</b><br>
-    Your commit message should read something like: <br>
-    "landscaper: user can buy battery-powered lawnmower"
-    <hr>
 
 1. Using the the fancy battery-powered lawnmower, you can spend the day cutting lawns and make $100.  You can do this as much as you want.
 
-    <hr>
-    &#x1F534;  <b>Commit your work!</b> <br>
-    Your commit message should read something like: <br>
-    "landscaper: user can use battery-powered lawnmower to cut grass"
-    <hr>
 
 1. At any point, if you are currently using the fancy battery-powered lawnmower, you can hire a team of starving students for $500.  You can do this once, assuming you have enough money.
 
-    <hr>
-    &#x1F534;  <b>Commit your work!</b> <br>
-    Your commit message should read something like: <br>
-    "landscaper: user can hire a team"
-    <hr>
 
 1. Using the the team of starving students, you can spend the day cutting lawns and make $250.  You can do this as much as you want.
 
-    <hr>
-    &#x1F534;  <b>Commit your work!</b> <br>
-    Your commit message should read something like: <br>
-    "landscaper: user can use a team to cut grass"
-    <hr>
 
 1. You win the game when you have a team of starving students and $1000.  In this situation, send a message to the user telling them, they've won.
 
-    <hr>
-    &#x1F534;  <b>Commit your work!</b> <br>
-    Your commit message should read something like: <br>
-    "landscaper: win scenario"
-    <hr>
 
 ## Hungry for More?
 
