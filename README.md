@@ -2,7 +2,7 @@
 
 One key thing to remember in general is that you get out of this course whatever you put into it. This cohort is in a unique position to have an extended winter break right in the beginning of the course, and it is up to you how you use this time. It's a great time to review topics you were confused on, really solidify the JavaScript basics before we start moving on, and just learn how to stay motivated on your own like you'll have to be after graduation. 
 
-We've gone ahead and gathered some tips from other instructors on how to use this time wisely, as well as put together a bunch of activities and links to resources that you can use to stay sharp while we have no class. 
+We've gone ahead and gathered some tips on how to use this time wisely, as well as put together a bunch of activities and links to resources that you can use to stay sharp while we have no class. 
 
 ## Suggestions and Tips for Staying Motivated 
 
