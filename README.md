@@ -49,7 +49,6 @@ We've gone ahead and gathered some tips from other instructors on how to use thi
   - Try out [project Euler problems](https://projecteuler.net/archives)
   - Sign up for [codewars](https://www.codewars.com/) or [hackerrank](https://www.hackerrank.com/) if you haven't already and try some problems out 
   - Check out all the resources your fellow students have shared in tech-talk! 
-  - Check out all the [smaller activities](javascript/small-activites) to get targeted practice on things you're still fuzzy on 
   - Try out the following larger activities: 
     - [Landscaper](javascript/bigger-activities/landscaper.md)
     - [Hangman](javascript/bigger-activities/hangman.md)
