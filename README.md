@@ -60,4 +60,3 @@ We've gone ahead and gathered some tips from other instructors on how to use thi
     - [Castle Battle](all-together/castle-battle.md)
     - Memory game, revisit the fundamentals activity, but see if you're able to add more functionality or build it differently with the new knowledge you've now gained 
     - Try any of the activities linked in the JS section, but do it with the DOM instead of in the console 
-    - Try out some of these [smaller activities](all-together/small-activities)
