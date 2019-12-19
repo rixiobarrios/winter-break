@@ -49,11 +49,11 @@ We've gone ahead and gathered some tips from other instructors on how to use thi
   - Try out [project Euler problems](https://projecteuler.net/archives)
   - Sign up for [codewars](https://www.codewars.com/) or [hackerrank](https://www.hackerrank.com/) if you haven't already and try some problems out 
   - Check out all the resources your fellow students have shared in tech-talk! 
-  - Try out the following larger activities: 
-    - [Landscaper](javascript/bigger-activities/landscaper.md)
-    - [Hangman](javascript/bigger-activities/hangman.md)
-    - [Space Battle](javascript/bigger-activities/space-battle.md)
-    - [Rock Paper Scissors](javascript/bigger-activities/rps.md)
+  - Try out the following activities: 
+    - [Landscaper](javascript/landscaper.md)
+    - [Hangman](javascript/hangman.md)
+    - [Space Battle](javascript/space-battle.md)
+    - [Rock Paper Scissors](javascript/rps.md)
   
 ### Put it All Together (HTML, CSS, JS with DOM manipulation!) 
   - Try out the following activities: 
