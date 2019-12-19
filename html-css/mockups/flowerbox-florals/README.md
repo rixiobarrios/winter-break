@@ -1,31 +1,16 @@
-![](/ga_cog.png)
-
----
-Title: Flowerbox Mockup<br>
-Type: Morning Exercise<br>
-Creator: Jerrica Bobadilla<br>
-Competencies: CSS, HTML, Flexbox
-
----
-
 # Flowerbox
 
 ![desktop mockup](https://imgur.com/NXdGKhD.png)
 
-For today's morning exercise, you're tasked with recreating the mockup above of a flower shop's site.
-
-## Set Up
-
-1. In today's `morning_exercise` directory, we've provided you with a `flowerbox` directory. Work in there.
-1. Make sure you're inside the `flowerbox` directory then `touch index.html styles.css` files.
-1. Open the directory in atom
-1. Add boiler plate HTML to your `index.html`
-1. Connect your `styles.css` and `index.html` together
-1. Open `index.html` in your browser
-1. We've provided you with all necessary images inside the `imgs` folder
-1. So get started!
+For this exercise, you're tasked with recreating the mockup above of a flower shop's site.
 
 ## Getting Started
+
+1. If you haven't alerady, fork and clone the `winter-break` repo then cd into this `flowerbox-florals` directory
+1. In the `flowerbox-florals` directory, we've provided you with a `flowerbox` directory. Work in there.
+1. Make sure you're inside the `flowerbox` directory then `touch index.html styles.css` files and make sure to connect them.
+1. We've provided you with all necessary images inside the `imgs` folder
+1. So get started!
 
 It's up to you how you want to tackle this mockup, but remember a few concepts we talked about in the past:
 
@@ -71,9 +56,7 @@ But there are many out there! For example, check out:
 
 ## Hungry for More?
 
-We learned about responsive design yesterday, now practice it! Feel free to style your own mobile design, or try to match the mobile mockup given below!
-
-*Notice something weird when you try to look at the mobile view via the chrome dev tools? Look into [viewports](https://www.w3schools.com/css/css_rwd_viewport.asp) to fix it!*
+Try to practice responsive design by making this mockup responsive. Feel free to style your own mobile design, or try to match the mobile mockup given below!
 
 <details><summary><strong>The Mobile Mockup (Click to see!)</strong></summary><p>
 
@@ -81,5 +64,7 @@ We learned about responsive design yesterday, now practice it! Feel free to styl
 
 </p></details>
 <br/>
+
+*Notice something weird when you try to look at the mobile view via the chrome dev tools? Look into [viewports](https://www.w3schools.com/css/css_rwd_viewport.asp) to fix it!*
 
 > Note that because you started with desktop view first, in order to keep with the mobile-first design concept, you will likely have to refactor your CSS a bit
