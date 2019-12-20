@@ -16,7 +16,7 @@ We've gone ahead and gathered some tips on how to use this time wisely, as well 
 
     #### Winter Break Office Hours
 
-    - Monday 12/23: 2:30 - 4:30pm EST (Hou)
+    - Monday 12/23: 3:00 - 5:00pm EST (Hou)
     - Friday 12/27: 11am - 1pm EST (Jared)
     - Saturday 12/28: 3:30 - 5:30pm EST (Esin) 
     - Monday 12/30: 10am - 12pm EST (Jennifer)
